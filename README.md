@@ -3,9 +3,9 @@
 
 Soy ingeniero informático con más de 10 años de experiencia de desarrollo web, trabajo que compagino con la docencia para personas sin experiencia en el desarrollo web. 
 
-**Mi último proyecto es [Wonder Experience](https://wonderexperience.io/)**
+**Mi último proyecto es [Wonder Experience](https://wonderexperience.io/)**.
 
-Si quieres saber más sobre mí, te invito a visitar mi [perfil de LinkedIn](https://www.linkedin.com/in/diego-toribio-rodriguez/)
+Si quieres saber más sobre mí, te invito a visitar mi [perfil de LinkedIn](https://www.linkedin.com/in/diego-toribio-rodriguez/).
 
 #### ⚡Hard Skills:
 
