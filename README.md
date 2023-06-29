@@ -1,11 +1,11 @@
 # Diego Toribio Rodriguez 👋
 ### Bienvenid@ a mi perfil de github donde hay algunos de mis trabajos.
 
-Soy ingeniero informático con más de 10 años de experiencia de desarrollo web, trabajo que compagino con docencia para personas sin experiencia en el desarrollo web. 
+Soy ingeniero informático con más de 10 años de experiencia de desarrollo web, trabajo que compagino con la docencia para personas sin experiencia en el desarrollo web. 
 
 **Mi último proyecto es Wonder Experiencie** [ver más](https://wonderexperience.io/)
 
-Si quieres saber más sobre mi de invito a visitar mi [perfil de LinkedIn](https://www.linkedin.com/in/diego-toribio-rodriguez/)
+Si quieres saber más sobre mí, te invito a visitar mi [perfil de LinkedIn](https://www.linkedin.com/in/diego-toribio-rodriguez/)
 
 #### ⚡Hard Skills:
 
