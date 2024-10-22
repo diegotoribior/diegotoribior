@@ -1,5 +1,5 @@
-# Diego Toribio Rodriguez 👋
-### Bienvenid@ a mi perfil de github donde hay algunos de mis trabajos.
+# Diego Toribio Rodríguez 👋
+### Bienvenid@ a mi perfil de Github.
 
 Soy ingeniero informático con más de 10 años de experiencia de desarrollo web, trabajo que compagino con la docencia para personas sin experiencia en el desarrollo web. 
 
