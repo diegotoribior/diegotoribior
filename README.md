@@ -9,7 +9,7 @@ Conoce más sobre mí en mi [perfil de LinkedIn](https://www.linkedin.com/in/die
 
 #### ⚡Hard Skills:
 
-![](https://github.com/SofyFrontend/badges/blob/main/html-5.svg) ![](https://github.com/SofyFrontend/badges/blob/main/css-3.svg) ![](https://github.com/SofyFrontend/badges/blob/main/javascript.svg) ![](https://github.com/SofyFrontend/badges/blob/main/php.svg) ![](https://github.com/SofyFrontend/badges/blob/main/python.svg)  ![](https://github.com/SofyFrontend/badges/blob/main/git.svg) ![](https://github.com/SofyFrontend/badges/blob/main/linux.svg) ![](https://github.com/SofyFrontend/badges/blob/main/wordpress.svg)  ![](https://github.com/SofyFrontend/badges/blob/main/sql.svg) ![](https://github.com/SofyFrontend/badges/blob/main/sql-server.svg)
+![](https://github.com/SofyFrontend/badges/blob/main/html-5.svg) ![](https://github.com/SofyFrontend/badges/blob/main/css-3.svg) ![](https://github.com/SofyFrontend/badges/blob/main/javascript.svg) ![](https://github.com/SofyFrontend/badges/blob/main/php.svg) ![](https://github.com/SofyFrontend/badges/blob/main/python.svg)  ![](https://github.com/SofyFrontend/badges/blob/main/git.svg) ![](https://github.com/SofyFrontend/badges/blob/main/linux.svg) ![](https://github.com/SofyFrontend/badges/blob/main/wordpress.svg) *DRUPAL* ![](https://github.com/SofyFrontend/badges/blob/main/sql.svg) ![](https://github.com/SofyFrontend/badges/blob/main/sql-server.svg)
 
 
 #### ⚡Soft Skills:
