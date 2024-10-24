@@ -17,12 +17,12 @@ Conoce más sobre mí en mi [perfil de LinkedIn](https://www.linkedin.com/in/die
 -Autodidacta
 -Capacidad de analisis
 -Adaptabilidad
--Atención a detalles
+-Atención a detalles.
 
 -Colaborador
 -Comunicador
 -Paciente
--Trabajo en equipo
+-Trabajo en equipo.
 
 
 
