@@ -14,15 +14,15 @@ Conoce más sobre mí en mi [perfil de LinkedIn](https://www.linkedin.com/in/die
 
 #### ⚡Soft Skills:
 
--Autodidacta.
--Capacidad de analisis.
--Adaptabilidad.
--Atención a detalles.
+-Autodidacta
+-Capacidad de analisis
+-Adaptabilidad
+-Atención a detalles
 
--Colaborador.
--Comunicador.
--Paciencia.
--Trabajo en equipo.
+-Colaborador
+-Comunicador
+-Paciente
+-Trabajo en equipo
 
 
 
